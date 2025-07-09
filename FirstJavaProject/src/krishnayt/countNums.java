@@ -1,4 +1,4 @@
-package krishnayt;
+package FirstJavaProject.src.krishnayt;
 
 import java.util.Scanner;
 

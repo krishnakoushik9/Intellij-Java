@@ -1,6 +1,4 @@
-package krishnayt;
-
-import java.util.Arrays;
+package FirstJavaProject.src.krishnayt;
 
 public class arrayBasic {
     public static void main(String[] args) {
