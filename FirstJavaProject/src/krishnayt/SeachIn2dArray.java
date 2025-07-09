@@ -15,6 +15,8 @@ public class SeachIn2dArray {
         int[] ans = search(arr,target);
         System.out.println(Arrays.toString(ans));
         in.close();
+        System.out.println(Arrays.deepToString(arr));
+
     }
     static int[] search(int[][] arr, int target){
         int row;
