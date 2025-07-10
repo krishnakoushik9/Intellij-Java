@@ -10,7 +10,7 @@ public class fibonacciSeries {
         int first_num = 0;
         int second_num = 1;
         for(int i = 1; i<=n; i++){
-            System.out.println(first_num + ", ");
+            System.out.println(first_num + " ");
             int next_num = first_num + second_num;
             first_num = second_num;
             second_num = next_num;
