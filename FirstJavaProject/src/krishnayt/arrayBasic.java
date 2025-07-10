@@ -1,4 +1,4 @@
-package FirstJavaProject.src.krishnayt;
+package krishnayt;
 
 public class arrayBasic {
     public static void main(String[] args) {
