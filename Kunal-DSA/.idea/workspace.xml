@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20031623-aa64-4bfc-82e1-dfbb61b81aad" name="Changes" comment="I did not like the enhanced for loops sorry java" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;krishnakoushik9&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/krishnakoushik9/Kunal-DSA.git",
+    "accountId": "a3a49cb2-9fa5-4745-b489-175bd599734d"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2zdGYf0Tlt08sElICrSuXiqPB7l" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EvenNumbers.executor": "Run",
+    "Application.MaxWealthSolution.executor": "Run",
+    "Application.OptimisedEvenNumbers.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/krsna/IdeaProjects/Kunal-DSA",
+    "onboarding.tips.debug.path": "/home/krsna/IdeaProjects/Kunal-DSA/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MaxWealthSolution">
+    <configuration name="FastestEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KunalDSA.FastestEvenNumbers" />
+      <module name="Kunal-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KunalDSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxWealthSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KunalDSA.MaxWealthSolution" />
+      <module name="Kunal-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KunalDSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptimisedEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KunalDSA.OptimisedEvenNumbers" />
+      <module name="Kunal-DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KunalDSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxWealthSolution" />
+        <item itemvalue="Application.OptimisedEvenNumbers" />
+        <item itemvalue="Application.FastestEvenNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20031623-aa64-4bfc-82e1-dfbb61b81aad" name="Changes" comment="" />
+      <created>1752053588841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752053588841</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First Commit to GIT from the DSA folder">
+      <option name="closed" value="true" />
+      <created>1752053712085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752053712085</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commiting after changes and Refactor to under KunalDSA Folder or Package">
+      <option name="closed" value="true" />
+      <created>1752053861407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752053861407</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1752054930929</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752054930929</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ahh this took so long to accomplish cause see guys my knowledge on building a logic is very poor so i feel like this is the first step i have taken in coding">
+      <option name="closed" value="true" />
+      <created>1752068078644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752068078644</updated>
+    </task>
+    <task id="LOCAL-00005" summary="After using enhanced for loops">
+      <option name="closed" value="true" />
+      <created>1752068188846</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752068188846</updated>
+    </task>
+    <task id="LOCAL-00006" summary="I did not like the enhanced for loops sorry java">
+      <option name="closed" value="true" />
+      <created>1752068403787</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752068403787</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit to GIT from the DSA folder" />
+    <MESSAGE value="Commiting after changes and Refactor to under KunalDSA Folder or Package" />
+    <MESSAGE value="New Commit" />
+    <MESSAGE value="Ahh this took so long to accomplish cause see guys my knowledge on building a logic is very poor so i feel like this is the first step i have taken in coding" />
+    <MESSAGE value="After using enhanced for loops" />
+    <MESSAGE value="I did not like the enhanced for loops sorry java" />
+    <option name="LAST_COMMIT_MESSAGE" value="I did not like the enhanced for loops sorry java" />
+  </component>
+</project>
