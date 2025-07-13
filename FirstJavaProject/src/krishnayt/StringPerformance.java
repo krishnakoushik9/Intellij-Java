@@ -6,8 +6,6 @@ public class StringPerformance {
         for(int i = 0;i<26;i++){
             char ch = (char)('a' + i);
             series = series + ch;
-            System.out.println(ch);
-            System.out.println(series);
-        }
+        }System.out.println(series);
     }
 }
