@@ -11,7 +11,6 @@ public class OderAgnosticBinarySearch {
     static int orderChecker(int[] arr, int target){
         int start = 0;
         int end = arr.length - 1;
-
         //Find whether the Array is ascending or descending
         boolean isAscending = arr[start]<arr[end];
 
